@@ -15,7 +15,7 @@ proxy:
     enable: false
     host: 113.12.72.24
     port: 3128
-    socks: ture
+    socks: false
 
 
 # driver 路径
